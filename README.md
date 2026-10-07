@@ -1269,6 +1269,22 @@ flowchart LR
 O objetivo não é transformar todo projeto em uma dissertação acadêmica, mas utilizar o raciocínio científico para reduzir decisões baseadas somente em opinião.
 
 ---
+## Base Estatística do Projeto Original
+
+[Zaroni - Dissertação - Validação Estatística no Google Colab](https://github.com/ztechbr/dissertacao_base_estatistica/blob/main/Zaroni_Dissertacao_Validacao_Estatistica_COLAB.ipynb)
+
+> **Observação sobre os dados utilizados**
+>
+> Para execução, teste e validação do código estatístico, utilize a **[Planilha com Dados Sintéticos](https://github.com/ztechbr/dissertacao_base_estatistica/blob/main/Dissertacao_Zaroni_Sintetico_2000.xlsx)** disponibilizada neste projeto.
+>
+> Os dados presentes nessa planilha **não correspondem aos dados reais coletados no questionário aplicado aos alunos em 2014**. A base original da pesquisa não é disponibilizada por questões de confidencialidade, privacidade dos participantes e proteção dos dados.
+>
+> Conforme descrito na dissertação, a coleta foi realizada de forma voluntária e confidencial. Os dados utilizados na pesquisa acadêmica foram tratados de forma anonimizada, e o processamento estatístico da base original foi realizado no contexto da dissertação, em conjunto com o orientador responsável pela pesquisa.
+>
+> A planilha disponibilizada neste repositório contém **dados sintéticos**, estruturados para permitir a reprodução do fluxo de análise estatística, a execução dos códigos e a compreensão das técnicas empregadas na dissertação.
+>
+> Portanto, essa base deve ser utilizada exclusivamente para **fins acadêmicos, educacionais, experimentais e de validação do código**, não devendo ser interpretada como reprodução dos dados individuais dos participantes nem como a base original utilizada na pesquisa de 2014.
+
 
 # 38. Referências centrais
 
