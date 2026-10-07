@@ -1,6 +1,10 @@
 # TAM, Aceitação de Tecnologia e PLS-SEM
 
-## Base conceitual e estatística da dissertação de Rodrigo Garcia Zaroni
+### Base Conceitual e Estatística
+
+A base conceitual e estatística deste projeto foi desenvolvida a partir da dissertação de mestrado de **Rodrigo Garcia Zaroni**.
+
+[Consultar a dissertação completa em PDF](https://github.com/ztechbr/dissertacao_base_estatistica/blob/main/dis_2014_20_-_rodrigo_garcia_zaroni.pdf)
 
 Este documento resume a fundamentação teórica e o método estatístico da dissertação **Antecedentes e resultados do uso efetivo da plataforma tecnológica LMS na Educação a Distância: uma extensão ao modelo TAM**, apresentada por Rodrigo Garcia Zaroni ao IBMEC em 2014.
 
